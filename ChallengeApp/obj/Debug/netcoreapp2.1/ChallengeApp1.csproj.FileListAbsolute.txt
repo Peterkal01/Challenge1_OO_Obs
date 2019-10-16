@@ -1,0 +1,11 @@
+C:\Users\102273448\Documents\CIV-OO-Challenge-1-master\ChallengeApp\bin\Debug\netcoreapp2.1\ChallengeApp1.deps.json
+C:\Users\102273448\Documents\CIV-OO-Challenge-1-master\ChallengeApp\bin\Debug\netcoreapp2.1\ChallengeApp1.runtimeconfig.json
+C:\Users\102273448\Documents\CIV-OO-Challenge-1-master\ChallengeApp\bin\Debug\netcoreapp2.1\ChallengeApp1.runtimeconfig.dev.json
+C:\Users\102273448\Documents\CIV-OO-Challenge-1-master\ChallengeApp\bin\Debug\netcoreapp2.1\ChallengeApp1.dll
+C:\Users\102273448\Documents\CIV-OO-Challenge-1-master\ChallengeApp\bin\Debug\netcoreapp2.1\ChallengeApp1.pdb
+C:\Users\102273448\Documents\CIV-OO-Challenge-1-master\ChallengeApp\obj\Debug\netcoreapp2.1\ChallengeApp1.csproj.CoreCompileInputs.cache
+C:\Users\102273448\Documents\CIV-OO-Challenge-1-master\ChallengeApp\obj\Debug\netcoreapp2.1\ChallengeApp1.AssemblyInfoInputs.cache
+C:\Users\102273448\Documents\CIV-OO-Challenge-1-master\ChallengeApp\obj\Debug\netcoreapp2.1\ChallengeApp1.AssemblyInfo.cs
+C:\Users\102273448\Documents\CIV-OO-Challenge-1-master\ChallengeApp\obj\Debug\netcoreapp2.1\ChallengeApp1.dll
+C:\Users\102273448\Documents\CIV-OO-Challenge-1-master\ChallengeApp\obj\Debug\netcoreapp2.1\ChallengeApp1.pdb
+C:\Users\102273448\Documents\CIV-OO-Challenge-1-master\ChallengeApp\obj\Debug\netcoreapp2.1\ChallengeApp1.csprojAssemblyReference.cache
